@@ -4,7 +4,7 @@ body {
         
 .header {
     position: relative; /* Membuat header sebagai elemen induk untuk posisi absolut */
-    background: url('image/1.jpeg') no-repeat top center;
+    background: url('1.jpeg') no-repeat top center;
     background-size: cover; /* Memastikan gambar latar belakang menutupi seluruh header */
     padding: 100px 0;
     margin-top: 56px; /* Tinggi dari navbar */
